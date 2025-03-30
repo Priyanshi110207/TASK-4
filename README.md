@@ -24,7 +24,7 @@ This document provides an analysis of the Arik Template, focusing on its key UI/
 3. Replicating the Design
 To build a similar UI using HTML, CSS, and JavaScript (Framer Motion), we could follow these steps :-
 
-* HTML: Structure the webpage using semantic elements (<header>, <section>, <footer>).
+* HTML: Structure the webpage using semantic elements (< header >, < section >, < footer >).
 * CSS: Implement a modern, minimalistic style with responsive breakpoints.
 * Framer Motion: Add animations such as smooth transitions and hover effects.
 * JavaScript: Enhance interactivity (e.g., toggle dark mode, dynamic content loading).
