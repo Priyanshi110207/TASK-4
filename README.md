@@ -12,5 +12,11 @@ This document provides an analysis of the Arik Template, focusing on its key UI/
   * Uses micro-interactions (hover effects, scroll animations). <br>
   * Responsive Design: Works seamlessly across devices. <br>
 
-2. Key UI/UX Elements
+2. Key UI/UX Elements <br>
+ * Navigation Bar- A fixed and intuitive menu for seamless browsing.
+ * Card Based Layout- Well structured grid layout with project previews. Organised presentation of work and services.
+ * Smooth Scroll Animations- Elements appear as you scroll down (Framer Motion).
+ * Hero Section with Large text & Subtext- A well designed introductory section with a clear call-to-action.
+ * Dark Mode with High Contract- Stylish, modern aesthetic with aomple whitespace.
+ * Hover Effects on Buttons and Links. 
 
